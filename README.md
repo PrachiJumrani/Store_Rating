@@ -453,7 +453,7 @@ Get user's rating history
 
 <div align="center">
 
-**Built with ❤️ by Suchit**
+
 
 [⭐ Star this repo](https://github.com/yourusername/rateme-platform) • [🐛 Report Bug](https://github.com/yourusername/rateme-platform/issues) • [✨ Request Feature](https://github.com/yourusername/rateme-platform/issues)
 
